@@ -1,3 +1,1 @@
-let text ="Skrypt działa prawidłowo !";
-
-console.log(text);
+window.alert("Skrypt działa prawidłowo !");
